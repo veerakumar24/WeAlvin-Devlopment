@@ -1,0 +1,12 @@
+.create-employee-container {
+    margin: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    margin-bottom: 10px;
+}
