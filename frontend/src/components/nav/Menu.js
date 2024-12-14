@@ -26,7 +26,7 @@ export default function Menu() {
                         <NavLink className="nav-link" to="/login">LOGIN</NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink className="nav-link" to="/register">REGISTERR-WeAlvin</NavLink>
+                        <NavLink className="nav-link" to="/register">REGISTER-WeAlvin</NavLink>
                     </li>
                 </>
             ) : (
